@@ -8,4 +8,9 @@ Demos of things worked on.
 ### Spatial Understanding using 2D RGB based Indoor Scene Segmentation and Plane Generation from Depth data
 ![Spatial Understanding](https://drive.google.com/uc?export=view&id=1JkYugeEEThgWw1TyyRkNbJvGUOB62WXR)
 
-### Colored PointCloud generation from RGBD data
+### Colored PointCloud generation from RGBD data for 6D Object Pose Estimation
+![PC1](https://drive.google.com/uc?export=view&id=1qHNPDGC_AK91E-H8L2nRNE1Ik6aI32XX)
+
+![PC2](https://drive.google.com/uc?export=view&id=1Nmhc5mLtaBR1jAvGnzvu_Ck-Xu3O1O9H)
+
+![PC3](https://drive.google.com/uc?export=view&id=11MF0uHWOmF1AIf5fAXMWz7GtHDhkZtH_)
