@@ -6,8 +6,6 @@ Demos of things worked on.
 
 ![Object RC](https://drive.google.com/uc?export=view&id=1smQJJvyhyCUaB9UhOwkrjK1y0ajXW-Js)
 
-### Pseudo Avatar using Human Body Segmentation (Output from AjnaLite)
-
 ### Spatial Understanding using 2D RGB based Indoor Scene Segmentation and Plane Generation from Depth data
 ![Spatial Understanding](https://drive.google.com/uc?export=view&id=1JkYugeEEThgWw1TyyRkNbJvGUOB62WXR)
 
